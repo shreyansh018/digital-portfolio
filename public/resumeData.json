@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Shreyansh Rajput",
+    "occupation": "Programmer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "mine3.JPEG",
+    "bio": "Hi there! I am Shreyansh! ",
+    "contactmessage": "Get in touch with me!",
+    "email": "amanr6126@gmail.com",
+    "phone": "+91 7985746710",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "Mhow, Indore, India",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
       "zip": "W3B D3V"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "name": "twitter",
+        "url": "https://twitter.com/Shreyansh1828",
+        "className": "fa fa-twitter"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/shreyansh.rajput.75/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/shreyansh-rajput-121525190/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/_.shreyansh28/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/shreyansh018",
         "className": "fa fa-github"
       }
     ]
@@ -48,10 +48,22 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Army Public School",
+        "degree": "10th Class",
+        "graduated": "July 2017",
+        "description": "8.5 CGPA"
+      },
+      {
+        "school": "Shri Hansdas Higher Secondr School",
+        "degree": "12th Class",
+        "graduated": "July 2019",
+        "description": "76.2%"
+      },
+      {
+        "school": "Vellore Institute of Technology, Bhopal",
+        "degree": "Bachelor of Technology in Computer Science Engineering",
+        "graduated": "August 2023",
+        "description": "NIL"
       }
     ],
     "work": [
@@ -68,7 +80,7 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "C++",
         "level": "85%"
       },
       {
