@@ -15,15 +15,27 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    var work = data.work.map(function (work) {
+    var Certifications = data.Certifications.map(function (Certifications) {
       return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
+        <div key={Certifications.company}>
+          <h3>{Certifications.company}</h3>
           <p className="info">
-            {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            {Certifications.title}
+            <span>&bull;</span> <em className="date">{Certifications.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>{Certifications.description}</p>
+        </div>
+      );
+    });
+    var Hobbies = data.Hobbies.map(function (Hobbies) {
+      return (
+        <div key={Hobbies.company}>
+          <h3>{Hobbies.company}</h3>
+          <p className="info">
+            {Hobbies.title}
+            <span></span> <em className="date">{Hobbies.years}</em>
+          </p>
+          <p>{Hobbies.description}</p>
         </div>
       );
     });
@@ -54,20 +66,38 @@ const Resume = ({ data }) => {
         </div>
       </div>
 
-      <div className="row work">
+      <div className="row Certifications">
         <div className="three columns header-col">
           <h1>
-            <span>Work</span>
+            <span>Certifications</span>
           </h1>
         </div>
 
-        <div className="nine columns main-col">{work}</div>
+        <div className="nine columns main-col">
+          <div className="row item">
+            <div className="twelve columns">{Certifications}</div>
+          </div>
+        </div>
       </div>
 
-      <div className="row skill">
+      <div className="row hobbies">
         <div className="three columns header-col">
           <h1>
-            <span>Skills</span>
+            <span>Hobbies</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <div className="row item">
+            <div className="twelve columns">{Hobbies}</div>
+          </div>
+        </div>
+      </div>
+
+      <div className="row skills">
+        <div className="three columns header-col">
+          <h1>
+            <span>Technical Skills</span>
           </h1>
         </div>
 
