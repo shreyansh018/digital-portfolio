@@ -135,13 +135,25 @@
         "title": "Instagram Clone (React JS)",
         "category": "",
         "image": "instagramclone.png",
-        "url": "https://github.com/shreyansh018/instaclone.git"
+        "url": "https://github.com/shreyansh018/insta-clone"
       },
       {
         "title": "Airbnb Clone (React JS)",
         "category": "",
         "image": "Airbnb-Clone.png",
         "url": "https://github.com/shreyansh018/airbnb-clone.git"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "Amazon.png",
+        "url": "https://github.com/shreyansh018/Amazon-clone"
+      },
+      {
+        "title": "Google Lookalike Search App (React JS)",
+        "category": "",
+        "image": "google.png",
+        "url": "https://github.com/shreyansh018/google-lookalike-clone.git"
       }
     ]
   },
