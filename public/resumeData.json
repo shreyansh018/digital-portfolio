@@ -2,39 +2,23 @@
   "main": {
     "name": "Shreyansh Rajput",
     "occupation": "Programmer",
-    "description": "I eat, sleep and breathe React",
+    "description": "Java, JavaScript, ReactJs",
     "image": "mine3.JPEG",
-    "bio": "Hi there! I am Shreyansh! I belong to Jabalpur, Madhya Pradesh, Currently pursuing Bachelor of Technology from Vellore Institute of Technology, Bhopal. I love to code and want to explore new things which helps me grow and improve my skills more accurate.",
+    "bio": "I am Shreyansh Singh Rajput, coming from Computer Science background, I aspire to work as a Software Developer so that I can be involved with the design of tomorrow's technology. Being an coder, I have always believed in working hard for any project assigned.",
     "contactmessage": "Get in touch with me!",
-    "email": "amanr6126@gmail.com, shreyansh.singhrajput2019@gmail.com",
+    "email": "amanr6126@gmail.com",
     "phone": "+91 7985746710",
     "address": {
-      "street": "Mhow, Indore, India",
-      "city": "Indore",
+      "city": "Jabalpur",
       "state": "Madhya Pradesh",
-      "zip": "453441"
+      "zip": "482001"
     },
-    "resumedownload": "https://drive.google.com/drive/u/0/folders/1bOORx7v8SBKCsEcHBJCwYFRb3dNhcqOm",
+    "resumedownload": "https://drive.google.com/file/d/1SVKfRY-oBqF8jVcN7Y65U26MTo6spy08/view?usp=sharing",
     "social": [
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/Shreyansh1828",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/shreyansh.rajput.75/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/shreyansh-rajput-121525190/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/_.shreyansh28/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -47,10 +31,10 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Army Public School",
-        "degree": "10th Class",
-        "graduated": "July 2017",
-        "description": "8.5 CGPA"
+        "school": "Vellore Institute of Technology, Bhopal",
+        "degree": "Bachelor of Technology in Computer Science Engineering",
+        "graduated": "August 2023",
+        "description": "7.07"
       },
       {
         "school": "Shri Hansdas Higher Secondry School",
@@ -59,18 +43,24 @@
         "description": "76.2%"
       },
       {
-        "school": "Vellore Institute of Technology, Bhopal",
-        "degree": "Bachelor of Technology in Computer Science Engineering",
-        "graduated": "August 2023",
-        "description": "NIL"
+        "school": "Army Public School",
+        "degree": "10th Class",
+        "graduated": "July 2017",
+        "description": "8.5 CGPA"
       }
     ],
     "Certifications": [
       {
+        "company": "Java",
+        "title": "Hackerrank",
+        "years": " Issued on Jan 2021",
+        "description": ""
+      },
+      {
         "company": "Data Structures",
         "title": "Coursera",
         "years": "Issued on July 2021",
-        "description": "an online non-credit course authorized by University of California San Diego and HSE University and offered through Coursera"
+        "description": ""
       },
       {
         "company": "Fundamentals of Data Analytics",
@@ -82,28 +72,12 @@
         "company": "Problem Solving(Basic) ",
         "title": "Hackerrank",
         "years": "Issued on July 2021",
-        "description": "It covers basic topics of Data Structures (such as Arrays, Strings) and Algorithms (such as Sorting and Searching)."
-      },
-      {
-        "company": "Java",
-        "title": "Hackerrank",
-        "years": " Issued on Jan 2021",
-        "description": "It will cover basic topics in Java language such as classes, data structures, inheritance, exception handling, etc. You are expected to be proficient in either Java 7 or Java 8."
+        "description": ""
       }
     ],
     "Hobbies": [
       {
-        "company": " Avid Content Writer – Have my own blogging website on Topic Science and Astronomy",
-        "title": "https://www.rajputshreyansh.com/"
-      },
-      {
-        "company": " Playing Video Games"
-      },
-      {
-        "company": "Animation and Graphics"
-      },
-      {
-        "company": "Coding"
+        "company": "Listening to Music, Blogging, Playing Video Games"
       }
     ],
     "skills": [
@@ -112,12 +86,8 @@
         "level": "80%"
       },
       {
-        "name": "C/C++",
+        "name": "Java",
         "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "50%"
       },
       {
         "name": "JavaScript",
@@ -125,7 +95,7 @@
       },
       {
         "name": "Web Development",
-        "level": "60%"
+        "level": "70%"
       }
     ]
   },
@@ -133,25 +103,25 @@
     "projects": [
       {
         "title": "Instagram Clone (React JS)",
-        "category": "",
-        "image": "instagramclone.png",
+        "category": "JavaScript, ReactJs",
+        "image": "i.png",
         "url": "https://github.com/shreyansh018/insta-clone"
       },
       {
-        "title": "Airbnb Clone (React JS)",
-        "category": "",
-        "image": "Airbnb-Clone.png",
-        "url": "https://github.com/shreyansh018/airbnb-clone.git"
+        "title": "Twitter Clone (React JS)",
+        "category": "JavaScript, ReactJs",
+        "image": "t.jpg",
+        "url": "https://github.com/shreyansh018/twitter-clone"
       },
       {
-        "title": "Amazon Clone (React JS)",
-        "category": "",
-        "image": "Amazon.png",
-        "url": "https://github.com/shreyansh018/amazonclone-app"
+        "title": "Uber Clone",
+        "category": "JavaScript, ReactJs",
+        "image": "u.png",
+        "url": "https://github.com/shreyansh018/uber-clone"
       },
       {
         "title": "Google Lookalike Search App (React JS)",
-        "category": "",
+        "category": "JavaScript, ReactJs",
         "image": "google.png",
         "url": "https://github.com/shreyansh018/google-lookalike-clone.git"
       }
